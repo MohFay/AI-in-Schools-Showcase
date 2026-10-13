@@ -1,5 +1,8 @@
 # AI-in-Schools-Showcase
 
+## Our Website
+https://mohfay.github.io/AI-in-Schools-Showcase/
+
 ## Files
 
 - `index.html` — Home page and statistics overview
